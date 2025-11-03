@@ -26,20 +26,6 @@ A basic Python calculator program that performs arithmetic operations like addit
 
 ---
 
-## 💡 Example Output
-
-```
-Enter first number: 10
-Enter operator (+, -, *, /): *
-Enter second number: 5
-Result: 50
-
-Do you want to perform another calculation? (yes/no): no
-Thanks for using the calculator!
-```
-
----
-
 ## 🧰 Technologies Used
 
 * Python 3
